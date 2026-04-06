@@ -1,4 +1,4 @@
-# Workshop Project
+# Spring_Boot_API
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GabrielNZ/workshop-springboot3-jpa/blob/main/LICENSE)
 
 # About the project
